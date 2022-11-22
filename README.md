@@ -1,7 +1,7 @@
 # Microverse-WebPack-Template
-webpack template, css, js linters, and workflows
+Git/GitHub flow, webpack, linters, and workflows.
 
-<a name="readme-top"></a>
+<a name="readme-top"> </a>
 
 <!--
 HOW TO USE:
@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="logo.png" alt="logo" width="140"  height="auto"/>
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -70,7 +70,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> LAMP Stack (Linux, Apache, MySQL, PHP)
+
+> MEAN Stack (MongoDB, Express.js, Angular.js, Node.js)
+
+> MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
 <details>
   <summary>Client</summary>
@@ -119,71 +123,49 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> How a you could make use of this project.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+In order to run this project you need these, incase they are not already setup, Kindly Read [Prerequisites](./Prerequisites.md).
 
 ### Setup
 
 Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
 ```sh
+  mkdir my-folder
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:SSEKPIUS/Microverse-WebPack-Template.git  
 ```
---->
 
 ### Install
 
 Install this project with:
-
-<!--
-Example command:
-
 ```sh
-  cd my-project
-  gem install
+  npm install -force
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
 Example command:
 
 ```sh
-  rails server
+  npm run start
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
 Example command:
 
 ```sh
-  bin/rails test test/models/article_test.rb
+  npm test
 ```
---->
 
 ### Deployment
 
@@ -205,17 +187,16 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author 1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+1. Ssekweyama Pius
 
-👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/SSEKPIUS)
+- Twitter: [@twitterhandle](https://twitter.com/SSEK_PIUS)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/pius-ssekweyama-23665794)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Author 2*
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,9 +226,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+> We encourage you to support this project
 
-If you like this project...
+If you like this project, kindly donate a token at [Paypal]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,9 +236,9 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> Credit to everyone who inspired this codebase.
 
-I would like to thank...
+I would like to thank microverse student team for the resorces availed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -265,15 +246,16 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+> Questions new developers would ask when they decide to use this project.
 
-- **[Question_1]**
+- **What is front-end, HTML, CSS and JavaScript**
+  - The front end refers to the parts of the application that users (also known as "clients") interact with directly
+  - As a front-end dev, you'll implement these tasks primarily using HTML to define the structure of web pages, CSS to add styling, and JavaScript to add interactivity.
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+- **What is back-end and Full stack**
+  - The back end refers to the parts of the application that run behind the scenes and aren't presented directly to the user/client.
+  - The back end typically includes a web server which handles HTTP connections received from the front-end client (usually a web browser)
+  - Full stack simply includes both the front end AND back end!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
