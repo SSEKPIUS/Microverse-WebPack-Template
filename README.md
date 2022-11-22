@@ -70,7 +70,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> LAMP Stack (Linux, Apache, MySQL, PHP)
+
+> MEAN Stack (MongoDB, Express.js, Angular.js, Node.js)
+
+> MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
 <details>
   <summary>Client</summary>
@@ -119,7 +123,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> How a you could make use of this project.
 
 To get a local copy up and running, follow these steps.
 
@@ -191,7 +195,7 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/SSEK_PIUS)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/pius-ssekweyama-23665794)
 
-👤 **Author 2**
+👤 **Author 2*
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -224,7 +228,7 @@ Feel free to check the [issues page](../../issues/).
 
 > We encourage you to support this project
 
-If you like this project, kindly 
+If you like this project, kindly donate a token at [Paypal]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
