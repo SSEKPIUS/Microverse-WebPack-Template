@@ -139,51 +139,43 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
 Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:SSEKPIUS/Microverse-WebPack-Template.git  
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
 Example command:
 
 ```sh
   cd my-project
-  gem install
+  npm install -force
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
 Example command:
 
 ```sh
-  rails server
+  npm run start
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
 Example command:
 
 ```sh
-  bin/rails test test/models/article_test.rb
+  npm test
 ```
---->
 
 ### Deployment
 
@@ -205,17 +197,16 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author 1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+1. Ssekweyama Pius
 
-👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/SSEKPIUS)
+- Twitter: [@twitterhandle](https://twitter.com/SSEK_PIUS)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/pius-ssekweyama-23665794)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Author 2**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
