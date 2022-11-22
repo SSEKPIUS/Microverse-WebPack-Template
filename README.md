@@ -1,7 +1,7 @@
 # Microverse-WebPack-Template
-webpack template, css, js linters, and workflows
+Git/GitHub flow, webpack, linters, and workflows.
 
-<a name="readme-top"></a>
+<a name="readme-top"> </a>
 
 <!--
 HOW TO USE:
@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="logo.png" alt="logo" width="140"  height="auto"/>
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
