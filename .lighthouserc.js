@@ -4,7 +4,6 @@ module.exports = {
         staticDistDir: './dist',
         numberOfRuns: 1,
         isSinglePageApplication: true,
-        url: ['http://localhost:3000/'],
         settings: {
           onlyCategories: ['accessibility', 'performance', 'seo']
         },
