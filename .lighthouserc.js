@@ -1,10 +1,10 @@
 module.exports = {
     ci: {
       collect: {
-        staticDistDir: './build',
+        staticDistDir: './dist',
         numberOfRuns: 1,
         isSinglePageApplication: true,
-        url: ['http://localhost:3000/'],
+        //url: ['http://localhost:3000/'],
         settings: {
           onlyCategories: ['accessibility', 'performance', 'seo']
         },
